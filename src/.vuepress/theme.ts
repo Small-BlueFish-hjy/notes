@@ -7,7 +7,7 @@ import { zhSidebar } from "./sidebar/index.js";
 // 主题设置
 export default hopeTheme({
   // 当前网站部署到的域名
-  hostname: "https://gitee.com/huang-jintong",
+  hostname: "https://github.com/Small-BlueFish-hjy",
 
   // 文章显示的默认作者
   author: {
